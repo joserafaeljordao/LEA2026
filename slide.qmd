@@ -1,0 +1,18 @@
+---
+title: "Template Slide"
+format: revealjs
+editor: visual
+---
+
+# Cenário / Problema
+## Introdução
+## Materiais e métodos
+
+# Solução
+
+## Resultados
+## Discussão
+
+# Final 
+
+## Conclusão
