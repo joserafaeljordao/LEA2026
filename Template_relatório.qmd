@@ -23,3 +23,6 @@ Possíveis implicações dos resultados encontrados para a área de interesse. A
 # Conclusão 
 
 Retomar os objetivos e liga-los aos resultados.
+
+# Bibliografia
+
