@@ -1,0 +1,25 @@
+---
+title: "Template Relatório"
+format: html
+editor: visual
+---
+# Introdução e objetivos
+
+Apresentar o problema, criar um cenário e motivar a análise.
+
+# Materiais e métodos
+
+Apresentar os métodos e materiais de referência usados nas proximas análises. Citar a ordem cronológica
+da análise.
+
+# Resultados
+
+Apresentar os resultados encontrados de forma sucinta e completa.
+
+# Discussão
+
+Possíveis implicações dos resultados encontrados para a área de interesse. Apresentar análises alternativas e ou complementares.
+
+# Conclusão 
+
+Retomar os objetivos e liga-los aos resultados.
